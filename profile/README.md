@@ -1,12 +1,10 @@
-## Hi there 👋
+## 📌About
+参加勢型企画で利用する汎用アドオンの開発/共有を行います。
+1. Private レポジトリはメンバーだけが閲覧できます
+2. Public レポジトリはURLを知っている人全員が閲覧できます
 
-<!--
+## ⚖️LICENCE
 
-**Here are some ideas to get you started:**
+本 Organization に含まれるすべてのリポジトリおよびその内容は、各リポジトリまたは各ファイルにおいて明示的にライセンスが記載されている場合を除き、すべて著作権者が権利を保持します（All Rights Reserved）。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**リポジトリが Public として公開されている場合であっても、いかなる利用・改変・再配布の許諾を意味するものではありません。**
