@@ -1,4 +1,4 @@
-# labels-and-topics
+# ラベルとトピック
 ## 1. はじめに
 Organization内のレポジトリは、 [https://github.com/orgs/KUN-Command-Team/repositories](https://github.com/orgs/KUN-Command-Team/repositories) から探すことができます。来訪者がレポジトリを探しやすくするために、開発者は以下のような工夫をすることができます。
 
