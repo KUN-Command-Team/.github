@@ -1,10 +1,19 @@
 # レポジトリの検索と整理
+
+1. [はじめに](#anchor1)
+1. [Topics](#anchor2)
+1. [Custom properties](#anchor3)
+
+---
+
+<a id="anchor1"></a>
 ## 1. はじめに
 Organization内のレポジトリは、 [https://github.com/orgs/KUN-Command-Team/repositories](https://github.com/orgs/KUN-Command-Team/repositories) から探すことができます。来訪者がレポジトリを探しやすくするために、開発者は以下のような工夫をすることができます。
 
 ---
 
 
+<a id="anchor2"></a>
 ## 2. Topics
 リポジトリにタグを付けて分類・検索しやすくするための機能です。
 
@@ -30,6 +39,8 @@ Organization内のレポジトリは、 [https://github.com/orgs/KUN-Command-Tea
 
 ---
 
+
+<a id="anchor3"></a>
 ## 3. Custom properties
 リポジトリに構造化されたキーと値を付与して管理する機能です。Topicsと異なり、あらかじめ定義された項目に従って値を設定します。
 
