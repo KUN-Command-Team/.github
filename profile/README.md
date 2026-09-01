@@ -10,6 +10,6 @@
 **リポジトリが Public として公開されている場合であっても、いかなる利用・改変・再配布の許諾を意味するものではありません。**
 
 ## 📖Docs
-- [Organizationに参加する](.../docs/joining-organization.md)
+- [Organizationに参加する](../docs/joining-organization.md)
 - [レポジトリの移動と新規作成](../docs/repository-setup.md)
 - [レポジトリの検索と整理](../docs/labels-and-topics.md)
